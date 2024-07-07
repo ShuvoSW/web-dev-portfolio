@@ -92,6 +92,7 @@ nav li a{
 }
 .banner-profile-pic{
     width: 580px;
+    border-radius: 100%;
 
 }
 /* Main style*/
